@@ -64,8 +64,11 @@ O resultado mais interessante do projeto foi justamente **contrariar a hipótese
 ## 🎓 Disciplina e Contexto Acadêmico
 
 **Disciplina:** BC-0506 — Comunicação e Redes
+
 **Instituição:** Universidade Federal do ABC (UFABC)
+
 **Professor:** João Henrique Kleinschmidt
+
 **Período:** 2026
 
 ---
