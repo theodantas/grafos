@@ -26,11 +26,17 @@ A hipótese investigada é que a rede de entrosamento evoluiu de uma estrutura *
 ## 📈 Métricas e Conceitos Aplicados
 
 ✔️ Centralidade de Grau (jogadores mais "conectados" de cada elenco);
+
 ✔️ Modularidade (algoritmo de Louvain) — identificação de comunidades/clãs de clubes;
+
 ✔️ Diâmetro da rede e densidade;
+
 ✔️ Coeficiente de agrupamento (clustering);
+
 ✔️ Conceito de Redes de Mundo Pequeno (*Small World*, Watts & Strogatz);
+
 ✔️ Identificação de "clubes-ponte" entre comunidades;
+
 ✔️ Visualização de grafos com layout de força (ForceAtlas2 / D3 force simulation).
 
 ## 🔎 Principais Achados
